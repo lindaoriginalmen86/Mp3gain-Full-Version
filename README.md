@@ -235,4 +235,4 @@ This repository serves as the official landing page for MP3Gain. The software is
 **Get the most recent version of MP3Gain today!**
 
 ---
-**Last updated:** 2026-10-25 18:18:32 UTC
+**Last updated:** 2026-10-25 21:36:33 UTC
